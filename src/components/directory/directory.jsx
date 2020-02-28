@@ -49,6 +49,7 @@ class Directory extends Component {
                             title={items.title}
                             imageUrl={items.imageUrl}
                             size={items.size}
+                            linkUrl={items.linkUrl}
                         />
                     ))}
                 </div>
